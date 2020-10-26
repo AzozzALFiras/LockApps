@@ -1,3 +1,10 @@
+// 
+// Developed by : Azozz ALFiras
+// twitter : @AzozzALFiras
+// github : https://github.com/AzozzALFiras/LockApps
+//
+
+
 #import <UIKit/UIKit.h>
 #import <LocalAuthentication/LocalAuthentication.h>
 #import "UIAlert+Blocks.h"
