@@ -1,0 +1,10 @@
+Package: co.azozzalfiras.lockapps
+Name: LockApps
+Depends: mobilesubstrate, co.azozzalfiras.azflibrary, com.spark.libsparkapplist, ws.hbang.common
+Version: 2.0-7
+Architecture: iphoneos-arm
+Description: LockApps by Face id & Touch id & Password!
+Maintainer: Azozz ALFiras
+Author: Azozz ALFiras
+Section: Tweaks
+Icon: https://c.top4top.io/p_1490q65691.jpg
